@@ -1,0 +1,206 @@
+<!doctype html>
+<html>
+<head>
+<title>响应式web网站设计制作方法_我的网站</title>
+<meta name="keywords" content="响应,web,网站设计,制作方法,研究,响应,时候,记录,一" />
+<meta name="description" content="在研究响应式的时候，记录了一些感想，分享出来，抛砖引玉，希望可以和大家一起讨论。总结下来，响应式比之前想象的要复杂得多。 1. ie9以下（不包括ie9）采用ie条件注释，为ie8以及一下单独开一个样式文件 1 !--[if lt IE 9] 2 link href=lt9.css rel=style" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<link href="/blog/Public/css/styles1.css" rel="stylesheet">
+<link href="/blog/Public/css/view1.css" rel="stylesheet">
+<!-- 返回顶部调用 begin -->
+<link href="/blog/Public/css/lrtk1.css" rel="stylesheet" />
+<script type="text/javascript" src="/blog/Public/js/jquery.js"></script>
+<script type="text/javascript">
+	$(function(){
+        var html='';
+        $.ajax({
+            url:"/blog/index.php/admin/art/arthot",
+            dataType:'json',
+            type:'get',
+            success:function(msg){
+                var index1=0;
+                $.each(msg, function(index, art){
+                    index1++;
+                    //art.afilename.lastIndexOf("/")+art.afilename.substr(art.afilename.lastIndexOf("/"))
+                    html += "<li><span><strong>"+index1+"</strong></span><a href='."+art.afilename.substr(art.afilename.lastIndexOf("/"))+"'>"+art.atitle+"</a></li>";
+                });
+                if($("#ool").text()==''){
+                    $(".tuijian").css('display','none');
+                }
+                $("#ool").html(html);
+
+            }
+        });
+    });
+</script>
+<script type="text/javascript">
+    $(function() {
+        $.ajax({
+            url:"/blog/index.php/admin/art/get_tow_art/aid/"+$('#aid').val(),
+            dataType:'json',
+            type:'get',
+            success:function(msg){
+                alert(msg);
+                $.each(msg, function(xart){
+                    alert(xart.aid);
+                });
+            }
+        });
+    });
+    /*
+    $(function(){
+        $.ajax({
+            url:"/blog/index.php/home/art/gettowart/"+$('#aid'),
+            dataType:'test',
+            type:'get',
+            success:function(msg){
+                alert(msg);
+            }
+        });
+    });*/
+</script>
+
+<script type="text/javascript" src="/blog/Public/js/js.js"></script>
+<script src="/blog/Public/jsmodernizr.js"></script>
+<![endif]-->
+</head>
+<body>
+<header>
+  <nav id="nav">
+    <ul>
+      	<li><a href='/'>首页</a></li>
+        <li><a href='/blog/Public/jianli/李俊PHP求职简历.pdf'>简历查看</a></li>
+    </ul>
+    <script src="/blog/Public/js/silder.js"></script><!--获取当前页导航 高亮显示标题--> 
+  </nav>
+</header>
+
+
+<!--header end-->
+<div id="mainbody">
+  <div class="blogs">
+    <div id="index_view">
+      <h2 class="t_nav"></h2>
+        <input type="hidden" value="9338" id="aid">
+      <h1 class="c_titile">asdas</h1>
+      <p class="box">发布时间：2019-06-26</p>
+        <!--<div id="ddv" style="display: none">{$artdata.acontent}</div>-->
+      <ul id="uui">
+          <p>asdas</p>      </ul>
+
+      <div class="otherlink">
+        <h2></h2>
+        <ul style="padding: 0 ;">
+          <li>上一篇：<span id="pre_art">没有了 </span></li>
+          <li style="float:right;">下一篇：<a href='/a/jishu/3.html'>即便是坑，我也想要拉你入伙！</a> </li>
+        </ul><h2 style=" height:0px;"></h2>
+        <ul>
+        <table width='100%' border='0' cellspacing='0' cellpadding='0'>
+<tr>
+    <td width='50%'>
+    </td>
+    <td width='50%'>
+    </td>
+    </tr>
+<tr>
+    <td width='50%'>
+    </td>
+    <td width='50%'>
+    </td>
+    </tr>
+<tr>
+    <td width='50%'>
+    </td>
+    <td width='50%'>
+    </td>
+    </tr>
+<tr>
+    <td width='50%'>
+    </td>
+    <td width='50%'>
+    </td>
+    </tr>
+<tr>
+    <td width='50%'>
+    </td>
+    <td width='50%'>
+    </td>
+    </tr>
+    </table>
+
+        </ul>
+      </div>
+    </div>
+    <!--bloglist end-->
+    
+    <aside>
+      <div class="search">
+        <form class="searchform" name="formsearch" action="/plus/search.php">
+        <input type="hidden" name="kwtype" value="0" />
+        <input name="q" type="text" id="search-keyword" value="输入关键词后按回车..." onfocus="if(this.value=='输入关键词后按回车...'){this.value='';}"  onblur="if(this.value==''){this.value='输入关键词后按回车...';}" />
+        </form>
+      </div>
+	<div class="viny">
+        <dl>
+          <dt class="art"><img src="/blog/Public/img/artwork.png" alt="专辑"></dt>
+          <dd class="icon-song"><span></span>输了你赢了世界又如何</dd>
+          <dd class="icon-artist"><span></span>歌手：A-Lin</dd>
+          <dd class="icon-album"><span></span>所属专辑：《A-Lin》</dd>
+          <dd class="icon-like"><span></span><a href="javascript:;">喜欢</a></dd>
+          <dd class="music">
+            <audio src="/blog/Public/img/A-Lin.mp3" controls></audio>
+         </dd>
+          <!--也可以添加loop属性 音频加载到末尾时，会重新播放-->
+        </dl>
+      </div>
+      <div class="tuijian">
+          <div class="tuijian">
+              <h2>推荐文章</h2>
+              <ol id="ool">
+              </ol>
+          </div>
+      </div>
+	  
+	  <!--
+      <div class="toppic">
+        <h2>图文并茂</h2>
+        <ul>
+          <li style="margin:10px 0;"><a href="/a/jishu/1.html"><img src="/blog/Public/uploads/allimg/150528/1-15052R224460-L.png">响应式web网站设计制作方法...
+            <p>查看详细</p>
+            </a></li>
+<li style="margin:10px 0;"><a href="/a/jishu/3.html"><img src="/images/defaultpic.gif">即便是坑，我也想要拉你入伙！...
+            <p>查看详细</p>
+            </a></li>
+
+        </ul>
+      </div>
+      <div class="clicks">
+        <h2>热门点击</h2>
+        <ol>
+        <li><span><a href='/a/jishu/'>技术探讨</a></span><a href="/a/jishu/1.html">响应式web网站设计制作方法</a></li>
+<li><span><a href='/a/jishu/'>技术探讨</a></span><a href="/a/jishu/3.html">即便是坑，我也想要拉你入伙！</a></li>
+
+        </ol>
+      </div>
+	  -->
+    </aside>
+    
+  </div>
+  <!--blogs end--> 
+</div>
+<!--mainbody end-->
+
+<footer>
+  <div class="footer-mid"></div>
+  <div class="footer-bottom">
+    <p>Copyright &copy; 2002-2011 DEDE58.com 织梦科技 版权所有 备案1234567号 站长统计</p>
+  </div>
+</footer>
+<!-- jQuery仿腾讯回顶部和建议 代码开始 -->
+<div id="tbox"><a id="gotop" href="javascript:void(0)"></a> </div>
+<!-- 代码结束 -->
+
+
+</body>
+</html>

@@ -1,0 +1,2892 @@
+[ 2019-05-30T00:00:51+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0140s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:00:58+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0060s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:01:04+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0050s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:01:34+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0050s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:01:38+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0090s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:03:04+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0350s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:03:53+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0080s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:04:01+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0090s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:04:06+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0070s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:04:07+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0070s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:04:10+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0050s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-05-30T00:04:14+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0090s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2019-05-30T00:04:16+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0040s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-05-30T00:04:18+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0040s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:06:12+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0080s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:06:15+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0060s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:06:20+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0060s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:06:39+08:00 ] 127.0.0.1 /blog/index.php/Admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:06:39+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:06:40+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:06:40+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-05-30T00:06:41+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:06:42+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:07:11+08:00 ] 127.0.0.1 /blog/index.php/Admin/Art/artupdate/aid/9314
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `art` WHERE `aid` = 9314 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:08:50+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:08:51+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:08:53+08:00 ] 127.0.0.1 /blog/index.php/Admin/Art/artupdate/aid/9314
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `art` WHERE `aid` = 9314 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:09:14+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0120s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:09:16+08:00 ] 127.0.0.1 /blog/index.php/Admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-05-30T00:09:16+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:09:16+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:09:16+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:09:17+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0100s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-05-30T00:09:19+08:00 ] 127.0.0.1 /blog/index.php/Admin/Art/artupdate/aid/9314
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `art` WHERE `aid` = 9314 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-05-30T00:14:18+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0110s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:14:19+08:00 ] 127.0.0.1 /blog/index.php/Admin/Art/artupdate/aid/9314
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `art` WHERE `aid` = 9314 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-05-30T00:14:24+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artedit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0130s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2019-05-30T00:14:42+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0140s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:16:09+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0140s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:16:10+08:00 ] 127.0.0.1 /blog/index.php/Admin/Art/artupdate/aid/9314
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `art` WHERE `aid` = 9314 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:16:14+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artedit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:16:25+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0110s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:25:11+08:00 ] 127.0.0.1 /blog/index.php/Admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:25:11+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:25:11+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:25:11+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:25:12+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0220s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-05-30T00:25:14+08:00 ] 127.0.0.1 /blog/index.php/Admin/Art/artupdate/aid/9314
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `art` WHERE `aid` = 9314 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:25:24+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artedit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+
+[ 2019-05-30T00:25:26+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0100s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:25:28+08:00 ] 127.0.0.1 /blog/index.php/Admin/Art/artupdate/aid/9314
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `art` WHERE `aid` = 9314 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-05-30T00:25:37+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artedit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `art` SET `atitle`='瓦达无多',`ishot`='0',`acontent`='&lt;p&gt;按时大大&lt;/p&gt;',`abstract`='的收入史蒂夫·1的收入史蒂夫·1的收入史蒂夫·1啊实打实' WHERE `aid` = 9314 [ RunTime:0.1480s ]
+SQL: SELECT * FROM `art` WHERE `aid` = 9314 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.065004s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.074004s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.080005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-05-30T00:25:38+08:00 ] 127.0.0.1 /blog/index.php/Admin/Art/artlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0130s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-05-30T00:25:52+08:00 ] 127.0.0.1 /blog/index.php/Admin/Art/artupdate/aid/9314
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `art` WHERE `aid` = 9314 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:26:21+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artedit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0120s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: UPDATE `art` SET `atitle`='瓦达无多',`ishot`='1',`acontent`='&lt;p&gt;的收入史蒂夫·1的收入史蒂夫·1的收入史蒂夫·1啊实打实&lt;/p&gt;',`abstract`='的收入史蒂夫·1的收入史蒂夫·1的收入史蒂夫·1啊实打实' WHERE `aid` = 9314 [ RunTime:0.1220s ]
+SQL: SELECT * FROM `art` WHERE `aid` = 9314 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.013001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.014000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:26:22+08:00 ] 127.0.0.1 /blog/index.php/Admin/Art/artlist.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0100s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:26:26+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0210s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:26:31+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0220s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:26:33+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0100s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:26:42+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:26:43+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0130s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:27:39+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:27:40+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0130s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:27:59+08:00 ] 127.0.0.1 /blog/index.php/Admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:27:59+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:27:59+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:27:59+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:28:01+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0120s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:28:32+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-05-30T00:28:34+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0240s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:28:59+08:00 ] 127.0.0.1 /blog/index.php/Admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:28:59+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:28:59+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-05-30T00:29:00+08:00 ] 127.0.0.1 /blog/index.php/Admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:29:00+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-05-30T00:29:00+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:29:00+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:29:01+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0140s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-05-30T00:29:06+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:29:15+08:00 ] 127.0.0.1 /blog/index.php/admin/art/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `art` (`atitle`,`ishot`,`acontent`,`abstract`,`atime`) VALUES ('234','0','&lt;p&gt;23423432&lt;/p&gt;','sfdsf史蒂夫sfdsf史蒂夫sfdsf史蒂夫sfdsf史蒂夫','1559147355') [ RunTime:0.0800s ]
+SQL: SELECT * FROM `art` WHERE `aid` = 9316 LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+SQL: UPDATE `art` SET `aid`='9316',`atitle`='234',`acontent`='&lt;p&gt;23423432&lt;/p&gt;',`abstract`='sfdsf史蒂夫sfdsf史蒂夫sfdsf史蒂夫sfdsf史蒂夫',`afilename`='./Public/Art/art_9316.html',`ishot`='0',`atime`='1559147355' WHERE ( aid=9316 ) [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:29:16+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0140s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:29:18+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:29:23+08:00 ] 127.0.0.1 /blog/index.php/admin/art/edit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0140s ]
+NOTIC: [8] Undefined index: validate D:\wamp\www\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\wamp\www\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: INSERT INTO `art` (`atitle`,`ishot`,`acontent`,`abstract`,`atime`) VALUES ('sfdsf史蒂夫','0','&lt;p&gt;sfdsf史蒂夫&lt;/p&gt;','sfdsf史蒂夫sfdsf史蒂夫sfdsf史蒂夫sfdsf史蒂夫','1559147363') [ RunTime:0.0010s ]
+SQL: SELECT * FROM `art` WHERE `aid` = 9317 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+SQL: UPDATE `art` SET `aid`='9317',`atitle`='sfdsf史蒂夫',`acontent`='&lt;p&gt;sfdsf史蒂夫&lt;/p&gt;',`abstract`='sfdsf史蒂夫sfdsf史蒂夫sfdsf史蒂夫sfdsf史蒂夫',`afilename`='./Public/Art/art_9317.html',`ishot`='0',`atime`='1559147363' WHERE ( aid=9317 ) [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:29:25+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0310s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0160s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:29:29+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:32:34+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0110s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T00:32:42+08:00 ] 127.0.0.1 /blog/index.php/admin/art/arthot
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0130s ]
+SQL: SELECT `aid`,`atitle`,`afilename` FROM `art` WHERE ( ishot=1 ) ORDER BY aid desc LIMIT 9   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T06:48:00+08:00 ] 127.0.0.1 /blog/index.php/Admin/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.019001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.014001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.014001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.112006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.112006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.033002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.033002s ]
+
+[ 2019-05-30T06:48:01+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T06:48:01+08:00 ] 127.0.0.1 /blog/index.php/Admin/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T06:48:01+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.187011s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.187011s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T06:48:04+08:00 ] 127.0.0.1 /blog/index.php/admin/art/artlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0400s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 0,20   [ RunTime:0.0220s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.051003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-05-30T06:49:15+08:00 ] 127.0.0.1 /blog/index.php/Admin/Art/artlist/p/20.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 380,20   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T06:49:17+08:00 ] 127.0.0.1 /blog/index.php/Admin/Art/artlist/p/16.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `art` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `art` LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `aid`,`atitle`,`ishot` FROM `art` WHERE ( aid>=1 ) ORDER BY aid desc LIMIT 300,20   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:02:06+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/%E5%A6%82%E5%9B%BE
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012001s ]
+
+[ 2019-05-30T07:02:14+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:09:28+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.020001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012001s ]
+
+[ 2019-05-30T07:10:55+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:10:56+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:10:56+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-05-30T07:11:09+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:11:19+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:12:39+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:12:41+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:12:41+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:12:42+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:12:43+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:12:43+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:12:43+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:12:43+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:14:15+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015001s ]
+
+[ 2019-05-30T07:15:05+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:15:06+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-05-30T07:15:36+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:15:37+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:15:37+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:17:02+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:21:08+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-05-30T07:21:23+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:24:41+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:25:02+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:25:03+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:25:03+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:25:03+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-05-30T07:25:04+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:30:28+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012001s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.019001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.019001s ]
+
+[ 2019-05-30T07:32:49+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Common\Common\SphinxClient::$_socket D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Common\Common\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:35:08+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:36:46+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2019-05-30T07:48:35+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Constant SEARCHD_OK already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 38 行.
+NOTIC: [8] Constant SEARCHD_ERROR already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 39 行.
+NOTIC: [8] Constant SEARCHD_RETRY already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 40 行.
+NOTIC: [8] Constant SEARCHD_WARNING already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 41 行.
+NOTIC: [8] Constant SPH_MATCH_ALL already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 44 行.
+NOTIC: [8] Constant SPH_MATCH_ANY already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 45 行.
+NOTIC: [8] Constant SPH_MATCH_PHRASE already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 46 行.
+NOTIC: [8] Constant SPH_MATCH_BOOLEAN already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 47 行.
+NOTIC: [8] Constant SPH_MATCH_EXTENDED already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 48 行.
+NOTIC: [8] Constant SPH_MATCH_FULLSCAN already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 49 行.
+NOTIC: [8] Constant SPH_MATCH_EXTENDED2 already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 50 行.
+NOTIC: [8] Constant SPH_RANK_PROXIMITY_BM25 already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 53 行.
+NOTIC: [8] Constant SPH_RANK_BM25 already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 54 行.
+NOTIC: [8] Constant SPH_RANK_NONE already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 55 行.
+NOTIC: [8] Constant SPH_RANK_WORDCOUNT already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 56 行.
+NOTIC: [8] Constant SPH_SORT_RELEVANCE already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 62 行.
+NOTIC: [8] Constant SPH_SORT_ATTR_DESC already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 63 行.
+NOTIC: [8] Constant SPH_SORT_ATTR_ASC already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 64 行.
+NOTIC: [8] Constant SPH_SORT_TIME_SEGMENTS already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 65 行.
+NOTIC: [8] Constant SPH_SORT_EXTENDED already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 66 行.
+NOTIC: [8] Constant SPH_SORT_EXPR already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 67 行.
+NOTIC: [8] Constant SPH_FILTER_VALUES already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 70 行.
+NOTIC: [8] Constant SPH_FILTER_RANGE already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 71 行.
+NOTIC: [8] Constant SPH_FILTER_FLOATRANGE already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 72 行.
+NOTIC: [8] Constant SPH_ATTR_INTEGER already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 75 行.
+NOTIC: [8] Constant SPH_ATTR_TIMESTAMP already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 76 行.
+NOTIC: [8] Constant SPH_ATTR_ORDINAL already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 77 行.
+NOTIC: [8] Constant SPH_ATTR_BOOL already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 78 行.
+NOTIC: [8] Constant SPH_ATTR_FLOAT already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 79 行.
+NOTIC: [8] Constant SPH_ATTR_MULTI already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 81 行.
+NOTIC: [8] Constant SPH_GROUPBY_DAY already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 84 行.
+NOTIC: [8] Constant SPH_GROUPBY_WEEK already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 85 行.
+NOTIC: [8] Constant SPH_GROUPBY_MONTH already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 86 行.
+NOTIC: [8] Constant SPH_GROUPBY_YEAR already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 87 行.
+NOTIC: [8] Constant SPH_GROUPBY_ATTR already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 88 行.
+NOTIC: [8] Constant SPH_GROUPBY_ATTRPAIR already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 89 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:48:38+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Constant SEARCHD_OK already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 38 行.
+NOTIC: [8] Constant SEARCHD_ERROR already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 39 行.
+NOTIC: [8] Constant SEARCHD_RETRY already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 40 行.
+NOTIC: [8] Constant SEARCHD_WARNING already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 41 行.
+NOTIC: [8] Constant SPH_MATCH_ALL already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 44 行.
+NOTIC: [8] Constant SPH_MATCH_ANY already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 45 行.
+NOTIC: [8] Constant SPH_MATCH_PHRASE already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 46 行.
+NOTIC: [8] Constant SPH_MATCH_BOOLEAN already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 47 行.
+NOTIC: [8] Constant SPH_MATCH_EXTENDED already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 48 行.
+NOTIC: [8] Constant SPH_MATCH_FULLSCAN already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 49 行.
+NOTIC: [8] Constant SPH_MATCH_EXTENDED2 already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 50 行.
+NOTIC: [8] Constant SPH_RANK_PROXIMITY_BM25 already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 53 行.
+NOTIC: [8] Constant SPH_RANK_BM25 already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 54 行.
+NOTIC: [8] Constant SPH_RANK_NONE already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 55 行.
+NOTIC: [8] Constant SPH_RANK_WORDCOUNT already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 56 行.
+NOTIC: [8] Constant SPH_SORT_RELEVANCE already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 62 行.
+NOTIC: [8] Constant SPH_SORT_ATTR_DESC already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 63 行.
+NOTIC: [8] Constant SPH_SORT_ATTR_ASC already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 64 行.
+NOTIC: [8] Constant SPH_SORT_TIME_SEGMENTS already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 65 行.
+NOTIC: [8] Constant SPH_SORT_EXTENDED already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 66 行.
+NOTIC: [8] Constant SPH_SORT_EXPR already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 67 行.
+NOTIC: [8] Constant SPH_FILTER_VALUES already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 70 行.
+NOTIC: [8] Constant SPH_FILTER_RANGE already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 71 行.
+NOTIC: [8] Constant SPH_FILTER_FLOATRANGE already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 72 行.
+NOTIC: [8] Constant SPH_ATTR_INTEGER already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 75 行.
+NOTIC: [8] Constant SPH_ATTR_TIMESTAMP already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 76 行.
+NOTIC: [8] Constant SPH_ATTR_ORDINAL already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 77 行.
+NOTIC: [8] Constant SPH_ATTR_BOOL already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 78 行.
+NOTIC: [8] Constant SPH_ATTR_FLOAT already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 79 行.
+NOTIC: [8] Constant SPH_ATTR_MULTI already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 81 行.
+NOTIC: [8] Constant SPH_GROUPBY_DAY already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 84 行.
+NOTIC: [8] Constant SPH_GROUPBY_WEEK already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 85 行.
+NOTIC: [8] Constant SPH_GROUPBY_MONTH already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 86 行.
+NOTIC: [8] Constant SPH_GROUPBY_YEAR already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 87 行.
+NOTIC: [8] Constant SPH_GROUPBY_ATTR already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 88 行.
+NOTIC: [8] Constant SPH_GROUPBY_ATTRPAIR already defined D:\wamp\www\blog\Tool\SphinxClient.class.php 第 89 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:52:54+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T07:52:56+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T08:14:41+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2019-05-30T08:14:46+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T08:14:46+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T08:14:46+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T08:14:46+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-05-30T08:14:47+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T08:14:47+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T08:14:47+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T08:14:47+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T08:14:59+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T08:14:59+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T08:15:00+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T08:15:00+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T08:15:00+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T08:15:01+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2019-05-30T08:15:01+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2019-05-30T08:15:01+08:00 ] 127.0.0.1 /blog/index.php/admin/art/getart/word/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 986 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] assert(): Assertion failed D:\wamp\www\blog\Tool\SphinxClient.class.php 第 169 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 994 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1042 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1050 行.
+NOTIC: [2] Invalid argument supplied for foreach() D:\wamp\www\blog\Tool\SphinxClient.class.php 第 1058 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 553 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [2] feof() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 557 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 558 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 467 行.
+NOTIC: [8] Undefined property: Tool\SphinxClient::$_socket D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, null given D:\wamp\www\blog\Tool\SphinxClient.class.php 第 468 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

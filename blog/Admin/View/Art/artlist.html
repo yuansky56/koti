@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="/blog/Public/bootstrap/css/bootstrap.css"/>
+    <script type="text/javascript" src="/blog/Public/js/jquery.js"></script>
+    <script>
+        $(function(){
+            $('.table-bordered').next().css('margin-left','300px')
+        })
+    </script>
+    <style>
+        .div{
+            width: 90%;
+        }
+        .fenye{
+            text-align: center;
+        }
+        .num,.current,.next{
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+<empty name="artlist">
+<h1>还没有发布文章</h1>
+<else />
+<div class="div">
+<form  onsubmit="return false" class="navbar-form navbar-right" role="search" action="index.php/admin/art/artSearch" method="post">
+    <div class="form-group">
+        <input id="name" name= "sname" type="text" class="form-control" placeholder="输入学生姓名查找">
+    </div>
+    <button type="submit" class="btn btn-primary" onclick="f1()">Search</button>
+</form>
+    <div id="table">
+<table class="table table-hover table-bordered">
+    <tr><th>序号</th><th>标题</th><th>是否热读</th><th>修改</th><th>删除</th></tr>
+
+    <volist name="artlist" id="art" key="k" >
+        <tr><td>{$k}</td><td>{$art.atitle}</td>
+            <if condition="$art.ishot eq 1"><td style="color: #00A000;">√</td>
+            <else /><td style="color: red;">×</td>
+            </if>
+            <td><a href="__URL__/artupdate/aid/{$art.aid}">update</a></td><td><a href="__URL__/artdelete/aid/{$art.aid}" onClick='return confirm("删除操作需要慎重,删除后将无法恢复,确定要删除?")'>delete</a></td></tr>
+    </volist>
+</table>
+        {$page}
+    </div>
+
+</div>
+</empty>
+</body>
+</html>
